@@ -1,8 +1,8 @@
 {
-  "name": "nestjs-redoc",
-  "version": "2.2.3",
+  "name": "@coin-market-man/nestjs-redoc",
+  "version": "1.0.0",
   "description": "NestJS ReDoc frontend",
-  "repository": "https://github.com/mxarc/nestjs-redoc",
+  "repository": "https://github.com/Coin-Market-Man/nestjs-redoc",
   "author": "Alfonso Reyes",
   "main": "dist/index.js",
   "private": false,
@@ -24,13 +24,12 @@
   "peerDependencies": {
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
-    "@nestjs/swagger": "^5.0.0",
     "reflect-metadata": "^0.1.12"
   },
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "@nestjs/common": "^9.0.0",
-    "@nestjs/swagger": "^6.0.0",
+    "@nestjs/swagger": "^6.2.1",
     "express-basic-auth": "^1.2.0",
     "express-handlebars": "^5.1.0"
   },
@@ -47,10 +46,10 @@
     "@types/jest": "^26.0.15",
     "@types/node": "^14.14.6",
     "@types/supertest": "^2.0.10",
-    "@typescript-eslint/eslint-plugin": "^4.6.1",
-    "@typescript-eslint/parser": "^4.6.1",
+    "@typescript-eslint/eslint-plugin": "^5.54.1",
+    "@typescript-eslint/parser": "^5.54.1",
     "commitizen": "^4.2.2",
-    "eslint": "^7.12.1",
+    "eslint": "^8.35.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-prettier": "^3.1.4",
     "husky": "^4.3.0",
@@ -62,7 +61,7 @@
     "supertest": "^6.0.1",
     "ts-jest": "^26.4.3",
     "ts-node": "^9.0.0",
-    "typescript": "^4.3.5"
+    "typescript": "^4.9.5"
   },
   "config": {
     "commitizen": {

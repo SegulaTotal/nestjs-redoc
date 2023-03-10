@@ -3,6 +3,10 @@
   <h4 align="center">ReDoc powered frontend for your NestJS API spec</h4>
 </h1>
 
+<h2 align="center">
+  <h4 align="center">Forked from <a href="https://github.com/mxarc/nestjs-redoc">nestjs-redoc</a></h4>
+</h2>
+
 <div align="center">
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs welcome" />
