@@ -1,8 +1,14 @@
 {
-  "name": "@coin-market-man/nestjs-redoc",
-  "version": "3.0.0",
+  "name": "@lorkanss/nestjs-redoc",
+  "version": "1.9.5",
   "description": "NestJS ReDoc frontend",
-  "repository": "https://github.com/Coin-Market-Man/nestjs-redoc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorkanss/nestjs-redoc.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Alfonso Reyes",
   "main": "dist/index.js",
   "private": false,
